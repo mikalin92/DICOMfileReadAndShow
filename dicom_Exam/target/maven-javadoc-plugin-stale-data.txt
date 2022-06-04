@@ -1,0 +1,63 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Mika/.m2/repository/org/dcm4che/dcm4che-imageio/3.3.7/dcm4che-imageio-3.3.7.jar;C:/Users/Mika/.m2/repository/org/dcm4che/dcm4che-core/3.3.7/dcm4che-core-3.3.7.jar;C:/Users/Mika/.m2/repository/org/dcm4che/dcm4che-dict/3.3.7/dcm4che-dict-3.3.7.jar;C:/Users/Mika/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar;C:/Users/Mika/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/Mika/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/Mika/.m2/repository/org/dcm4che/dcm4che-conf-core-api/3.3.7/dcm4che-conf-core-api-3.3.7.jar;C:/Users/Mika/.m2/repository/org/dcm4che/dcm4che-image/3.3.7/dcm4che-image-3.3.7.jar;C:/Users/Mika/.m2/repository/org/dcm4che/tool/dcm4che-tool-common/3.3.7/dcm4che-tool-common-3.3.7.jar;C:/Users/Mika/.m2/repository/org/dcm4che/dcm4che-net/3.3.7/dcm4che-net-3.3.7.jar;C:/Users/Mika/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'9'
+-sourcepath
+'C:/Users/Mika/Documents/NetBeansProjects/dicom_Exam/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Mika/Documents/NetBeansProjects/dicom_Exam/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'dicom_Exam 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/9/docs/api' 'C:/Users/Mika/Documents/NetBeansProjects/dicom_Exam/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'dicom_Exam 1.0-SNAPSHOT API'
+fi.mika.dicom_exam
+'C:/Users/Mika/Documents/NetBeansProjects/dicom_Exam/src/main/java/fi/mika/dicom_exam/DicomAnalyzer.java'
+'C:/Users/Mika/Documents/NetBeansProjects/dicom_Exam/src/main/java/fi/mika/dicom_exam/Main.java'
+'C:/Users/Mika/Documents/NetBeansProjects/dicom_Exam/src/main/java/fi/mika/dicom_exam/SizeHelper.java'
+C:\Users\Mika\.m2\repository\org\dcm4che\dcm4che-imageio\3.3.7\dcm4che-imageio-3.3.7.jar = 1654098666141
+C:\Users\Mika\.m2\repository\org\dcm4che\dcm4che-core\3.3.7\dcm4che-core-3.3.7.jar = 1654098666318
+C:\Users\Mika\.m2\repository\org\dcm4che\dcm4che-dict\3.3.7\dcm4che-dict-3.3.7.jar = 1654098666135
+C:\Users\Mika\.m2\repository\org\slf4j\slf4j-api\1.7.5\slf4j-api-1.7.5.jar = 1627577962857
+C:\Users\Mika\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1654098668844
+C:\Users\Mika\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1628183173873
+C:\Users\Mika\.m2\repository\org\dcm4che\dcm4che-conf-core-api\3.3.7\dcm4che-conf-core-api-3.3.7.jar = 1654098666314
+C:\Users\Mika\.m2\repository\org\dcm4che\dcm4che-image\3.3.7\dcm4che-image-3.3.7.jar = 1654098666260
+C:\Users\Mika\.m2\repository\org\dcm4che\tool\dcm4che-tool-common\3.3.7\dcm4che-tool-common-3.3.7.jar = 1654098667282
+C:\Users\Mika\.m2\repository\org\dcm4che\dcm4che-net\3.3.7\dcm4che-net-3.3.7.jar = 1654098667786
+C:\Users\Mika\.m2\repository\commons-cli\commons-cli\1.2\commons-cli-1.2.jar = 1654098668864
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\src\main\java = 1654098376436
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\allclasses-frame.html = 1654321690933
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\allclasses-noframe.html = 1654321690935
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\constant-values.html = 1654321690884
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\deprecated-list.html = 1654321690930
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\help-doc.html = 1654321690946
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\index-all.html = 1654321690920
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\index.html = 1654321690938
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\member-search-index.js = 1654321690918
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\member-search-index.zip = 1654321690919
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\overview-tree.html = 1654321690907
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\package-list = 1654321690854
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\package-search-index.js = 1654321690914
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\package-search-index.zip = 1654321690916
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\script.js = 1654321690949
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\search.js = 1654321690952
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\stylesheet.css = 1654320955464
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\type-search-index.js = 1654321690917
+C:\Users\Mika\Documents\NetBeansProjects\dicom_Exam\target\site\apidocs\type-search-index.zip = 1654321690918
